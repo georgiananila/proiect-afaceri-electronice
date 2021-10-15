@@ -1,0 +1,51 @@
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.Services.deps.json
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.Services.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\ref\FurnitureWebStore.Services.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.Services.pdb
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.DataAccess.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.Models.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.DataAccess.pdb
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.Models.pdb
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.csproj.AssemblyReference.cache
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.AssemblyInfoInputs.cache
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.AssemblyInfo.cs
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.csproj.CoreCompileInputs.cache
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.csproj.CopyComplete
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\ref\FurnitureWebStore.Services.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.pdb
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.Services.deps.json
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.Services.dll
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\ref\FurnitureWebStore.Services.dll
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.Services.pdb
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.DataAccess.dll
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.Models.dll
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.DataAccess.pdb
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.Models.pdb
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.csprojAssemblyReference.cache
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.AssemblyInfoInputs.cache
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.AssemblyInfo.cs
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.csproj.CoreCompileInputs.cache
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.csproj.CopyComplete
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.dll
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\ref\FurnitureWebStore.Services.dll
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.pdb
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.Services.deps.json
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.Services.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\ref\FurnitureWebStore.Services.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.Services.pdb
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.DataAccess.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.Models.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.DataAccess.pdb
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\bin\Debug\net5.0\FurnitureWebStore.Models.pdb
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.csproj.AssemblyReference.cache
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.AssemblyInfoInputs.cache
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.AssemblyInfo.cs
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.csproj.CoreCompileInputs.cache
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.csproj.CopyComplete
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\ref\FurnitureWebStore.Services.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.Services\obj\Debug\net5.0\FurnitureWebStore.Services.pdb

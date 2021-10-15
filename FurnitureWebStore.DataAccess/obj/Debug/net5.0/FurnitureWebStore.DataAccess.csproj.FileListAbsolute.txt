@@ -1,0 +1,54 @@
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.DataAccess.deps.json
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.DataAccess.runtimeconfig.json
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.DataAccess.runtimeconfig.dev.json
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.DataAccess.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\ref\FurnitureWebStore.DataAccess.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.DataAccess.pdb
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.Models.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.Models.pdb
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.csproj.AssemblyReference.cache
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.AssemblyInfoInputs.cache
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.AssemblyInfo.cs
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.csproj.CoreCompileInputs.cache
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.csproj.CopyComplete
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\ref\FurnitureWebStore.DataAccess.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.pdb
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.genruntimeconfig.cache
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.DataAccess.deps.json
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.DataAccess.runtimeconfig.json
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.DataAccess.runtimeconfig.dev.json
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.DataAccess.dll
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\ref\FurnitureWebStore.DataAccess.dll
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.DataAccess.pdb
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.Models.dll
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.Models.pdb
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.csprojAssemblyReference.cache
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.AssemblyInfoInputs.cache
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.AssemblyInfo.cs
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.csproj.CoreCompileInputs.cache
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.csproj.CopyComplete
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.dll
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\ref\FurnitureWebStore.DataAccess.dll
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.pdb
+D:\Master\An2\Afaceri electronice - Timofte\Proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.genruntimeconfig.cache
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.DataAccess.deps.json
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.DataAccess.runtimeconfig.json
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.DataAccess.runtimeconfig.dev.json
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.DataAccess.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\ref\FurnitureWebStore.DataAccess.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.DataAccess.pdb
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.Models.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\bin\Debug\net5.0\FurnitureWebStore.Models.pdb
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.csproj.AssemblyReference.cache
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.AssemblyInfoInputs.cache
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.AssemblyInfo.cs
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.csproj.CoreCompileInputs.cache
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.csproj.CopyComplete
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\ref\FurnitureWebStore.DataAccess.dll
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.pdb
+D:\master-Anul2-sem1\afaceri-electronice\proiect\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore\FurnitureWebStore.DataAccess\obj\Debug\net5.0\FurnitureWebStore.DataAccess.genruntimeconfig.cache
