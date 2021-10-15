@@ -7,6 +7,7 @@ namespace FurnitureWebStore.Models.Entities
 {
     public partial class Feedback:IEntity<int>
     {
+
         public int Id { get; set; }
         public string CommentTitle { get; set; }
         public string Comment { get; set; }

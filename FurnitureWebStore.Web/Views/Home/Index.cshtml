@@ -1,7 +1,8 @@
 ﻿@model IEnumerable<ProductVM>
 
 @{ ViewData["Title"] = "Home Page";
-                var detailsRoute = "/Details/{0}"; }
+    var detailsRoute = "/Details/{0}";
+    var feedbackRoute = "/Feedback/{0}";}
 
 <div class="row">
 
@@ -12,7 +13,7 @@
 
         <div class="card-header">
             <h4 class="my-0 font-weight-normal">
-                <label style="font-size:23px; color:steelblue;">@product.Name</label>
+                <label style="font-size: 23px; color: #ff1a75; ">@product.Name</label>
             </h4>
         </div>
 
@@ -21,9 +22,12 @@
         <div class="card-body">
             <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                    <label style="font-size:20px; color:#a51313"><b>$@product.Price</b></label>
+                    <label style="font-size: 20px; color: #cd1818"><b>$@product.Price</b></label>
                 </div>
                 <a href="@string.Format(detailsRoute, product.Id)" class="btn pull-right btn-outline-info">View Details</a>
+                <br/>
+                <br />
+                <a href="@string.Format(feedbackRoute, product.Id)" class="btn fa-pull-left btn-outline-info">View Feedback</a>
             </div>
         </div>
 

@@ -16,6 +16,9 @@ namespace FurnitureWebStore.Models
 
                   cfg.CreateMap<Product, ProductVM>();
                   cfg.CreateMap<ProductVM, Product>();
+
+                  cfg.CreateMap<Feedback, FeedbackVM>();
+                  cfg.CreateMap<FeedbackVM, Feedback>();
               });
             return config.CreateMapper();
         }

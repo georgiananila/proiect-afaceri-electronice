@@ -6091,11 +6091,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\FurnitureWebStore\\FurnitureWebStore.Web\\FurnitureWebStore.Web.csproj",
+      "projectUniqueName": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\proiect-afaceri-electronice\\FurnitureWebStore.Web\\FurnitureWebStore.Web.csproj",
       "projectName": "FurnitureWebStore.Web",
-      "projectPath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\FurnitureWebStore\\FurnitureWebStore.Web\\FurnitureWebStore.Web.csproj",
+      "projectPath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\proiect-afaceri-electronice\\FurnitureWebStore.Web\\FurnitureWebStore.Web.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\FurnitureWebStore\\FurnitureWebStore.Web\\obj\\",
+      "outputPath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\proiect-afaceri-electronice\\FurnitureWebStore.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6112,11 +6112,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\FurnitureWebStore\\FurnitureWebStore.Models\\FurnitureWebStore.Models.csproj": {
-              "projectPath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\FurnitureWebStore\\FurnitureWebStore.Models\\FurnitureWebStore.Models.csproj"
+            "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\proiect-afaceri-electronice\\FurnitureWebStore.Models\\FurnitureWebStore.Models.csproj": {
+              "projectPath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\proiect-afaceri-electronice\\FurnitureWebStore.Models\\FurnitureWebStore.Models.csproj"
             },
-            "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\FurnitureWebStore\\FurnitureWebStore.Services\\FurnitureWebStore.Services.csproj": {
-              "projectPath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\FurnitureWebStore\\FurnitureWebStore.Services\\FurnitureWebStore.Services.csproj"
+            "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\proiect-afaceri-electronice\\FurnitureWebStore.Services\\FurnitureWebStore.Services.csproj": {
+              "projectPath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\proiect-afaceri-electronice\\FurnitureWebStore.Services\\FurnitureWebStore.Services.csproj"
             }
           }
         }

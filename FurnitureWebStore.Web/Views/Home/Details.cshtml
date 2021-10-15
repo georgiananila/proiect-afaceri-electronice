@@ -8,7 +8,7 @@
                 var route = isInBag ? "/Remove/{0}" : "/Add/{0}";
                 route = string.Format(route, Model.Id); }
 
-<h2 class="text-info">Product Details</h2>
+<h2 class="text-info" style="color: #ff1a75; font-weight: bold;">Product Details</h2>
 
 <form action="@route" method="post">
 
@@ -17,7 +17,7 @@
 
             <div class="form-group row">
                 <div class="col-4">
-                    <label>Product name</label>
+                    <label style="color: #ff1a75; font-weight: bold;">Product name</label>
                 </div>
                 <div class="col-4">
                     <input asp-for="Name" readonly class="form-control" />
@@ -26,7 +26,7 @@
 
             <div class="form-group row">
                 <div class="col-4">
-                    <label>Price</label>
+                    <label style="color: #ff1a75; font-weight: bold;">Price</label>
                 </div>
                 <div class="col-4">
                     <input asp-for="Price" readonly class="form-control" />
@@ -35,7 +35,7 @@
 
             <div class="form-group row">
                 <div class="col-4">
-                    <label>Description</label>
+                    <label  style="color: #ff1a75; font-weight: bold;">Description</label>
                 </div>
                 <div class="col-4">
                     @Html.TextArea("Description", Model.Description, new { @class = "form-control", @readonly = "readonly" })

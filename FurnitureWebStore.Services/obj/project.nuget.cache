@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e+PYVJbNjyoq9BeJfFzmQ6w3YeQZQn7m3c2gj/ajWde+9l8Ajtp49EegyjUpm5I8N3gHi/JeAp/sRk0h/+erMg==",
+  "dgSpecHash": "Egg7dpJBB1ybvaSmzCJIAssG03c8bsNugtoH6TC5HM2Q5ymG1v0EplKp7/XHjhMVywfEd83U3CfHaF0d1IjqdA==",
   "success": true,
-  "projectFilePath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\FurnitureWebStore\\FurnitureWebStore.Services\\FurnitureWebStore.Services.csproj",
+  "projectFilePath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\proiect-afaceri-electronice\\FurnitureWebStore.Services\\FurnitureWebStore.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georg\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",

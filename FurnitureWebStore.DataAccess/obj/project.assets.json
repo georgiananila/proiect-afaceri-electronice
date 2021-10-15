@@ -5929,11 +5929,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\FurnitureWebStore\\FurnitureWebStore.DataAccess\\FurnitureWebStore.DataAccess.csproj",
+      "projectUniqueName": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\proiect-afaceri-electronice\\FurnitureWebStore.DataAccess\\FurnitureWebStore.DataAccess.csproj",
       "projectName": "FurnitureWebStore.DataAccess",
-      "projectPath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\FurnitureWebStore\\FurnitureWebStore.DataAccess\\FurnitureWebStore.DataAccess.csproj",
+      "projectPath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\proiect-afaceri-electronice\\FurnitureWebStore.DataAccess\\FurnitureWebStore.DataAccess.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\FurnitureWebStore\\FurnitureWebStore.DataAccess\\obj\\",
+      "outputPath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\proiect-afaceri-electronice\\FurnitureWebStore.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5950,8 +5950,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\FurnitureWebStore\\FurnitureWebStore.Models\\FurnitureWebStore.Models.csproj": {
-              "projectPath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\FurnitureWebStore\\FurnitureWebStore.Models\\FurnitureWebStore.Models.csproj"
+            "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\proiect-afaceri-electronice\\FurnitureWebStore.Models\\FurnitureWebStore.Models.csproj": {
+              "projectPath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\proiect-afaceri-electronice\\FurnitureWebStore.Models\\FurnitureWebStore.Models.csproj"
             }
           }
         }

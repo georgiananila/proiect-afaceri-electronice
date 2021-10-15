@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RPkREec2T84jTC1iVjuhOkF0k5ASVGB9xAKZklUYu41+366sQYQ0Nayr92RooO4R5Um8w7cC0b2byUxpZaom4w==",
+  "dgSpecHash": "vqJP/QFkwqugYMljE784BPPGAUPRvdzmzzF6eObJ9QvvcpXaCS1iRj4p47/be1GAYWkg0tHxJK7/UKBTZT7eBw==",
   "success": true,
-  "projectFilePath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\FurnitureWebStore\\FurnitureWebStore.Web\\FurnitureWebStore.Web.csproj",
+  "projectFilePath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\proiect-afaceri-electronice\\FurnitureWebStore.Web\\FurnitureWebStore.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georg\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

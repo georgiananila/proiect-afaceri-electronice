@@ -86,13 +86,13 @@ body {
 }
 
 .btn-outline-new {
-    color: #000000;
+    color: #4d4d4d;
 }
 
     .btn-outline-new:hover {
         color: #000000;
         background-color: #fff;
-        border-color: aquamarine;
+        border-color: #4d88ff;
     }
 
     .btn-outline-new.focus, .btn-outline-new:focus {
@@ -100,7 +100,7 @@ body {
     }
 
 .btn-delete {
-    background-color: #F44336;
+    background-color: #b3003b;
     border-radius: 5px;
     color: #FFF;
 }
@@ -110,9 +110,9 @@ body {
 }
 
     .btn-outline-delete:hover {
-        color: #F44336;
+        color: #b3003b;
         background-color: #fff;
-        border-color: #F44336;
+        border-color: #b3003b;
     }
 
     .btn-outline-delete.focus, .btn-outline-delete:focus {
@@ -124,7 +124,7 @@ body {
 }
 
 .table-hover tbody tr:hover td {
-    background-color: aqua;
+    background-color: #3377ff;
     color: black;
 }
 

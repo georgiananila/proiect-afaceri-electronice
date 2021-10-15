@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "95KI+ESSD2edHNJsyvl81rbACrka6v5aNxVb/Fa24gepbcIlpkJ77ogXdrIq3U5E+sd2kKEiaEvp39qNuGnGKg==",
+  "dgSpecHash": "6xHpARGR9DlUh1Rh3B1aOTWsHD+f//mrcpeLt7GgXbALQqdrh14ZLM6OIzqmM38FOrrcJHQHbVFkdeDPB9WWTQ==",
   "success": true,
-  "projectFilePath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\FurnitureWebStore\\FurnitureWebStore.DataAccess\\FurnitureWebStore.DataAccess.csproj",
+  "projectFilePath": "D:\\master-Anul2-sem1\\afaceri-electronice\\proiect\\proiect-afaceri-electronice\\FurnitureWebStore.DataAccess\\FurnitureWebStore.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georg\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

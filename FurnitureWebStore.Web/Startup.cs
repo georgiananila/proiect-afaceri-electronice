@@ -49,6 +49,7 @@ namespace FurnitureWebStore.Web
 
             services.AddScoped<IProductTypeService, ProductTypeService>();
             services.AddScoped<IProductService, ProductService>();
+            services.AddScoped<IFeedbackServices, FeedbackServices>();
 
             #endregion Services
 
@@ -56,6 +57,7 @@ namespace FurnitureWebStore.Web
 
             services.AddScoped<IRepository<ProductType, int>, Repository<ProductType, int>>();
             services.AddScoped<IRepository<Product, int>, Repository<Product, int>>();
+            services.AddScoped<IRepository<Feedback, int>, Repository<Feedback, int>>();
 
             #endregion Repository
 
